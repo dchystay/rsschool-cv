@@ -59,3 +59,17 @@ Minsk, Belarus
 ### **Languages**
 ***Russian***
 * Native
+
+***English***
+
+![English level](C:/Users/Darya_Chystaya/Pictures/Screenshot.png "English")
+* Speaking: B2
+* Writing: B2+
+
+*****
+### **Contact**
+e-mail: *burchanskaya@gmail.com*
+
+github: *@dchystay*
+
+discord: *Darya Chystaya#6179*
